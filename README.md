@@ -1,14 +1,31 @@
-<h1 align="center">Hi 👋, I'm Emilio Méndez</h1>
-<h3 align="center">A passionate web developer from Guatemala</h3>
+<h1 align="center">Hi, I'm Emilio Méndez</h1>
+<h3 align="center">Technical Product Enthusiast | UX/UI Strategist | C# & Python</h3>
 
-- 🌱 I’m currently learning **Data Science**
-
-- 📝 I regularly write articles on [https://gazeta.gt/](https://gazeta.gt/)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="center">
+  <em>I specialize in translating business requirements into technical solutions and user-centric designs.</em>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+---
 
+### 🚀 About Me
+I combine technical knowledge in **Backend (C#)** and **Data (Python)** with a strong background in **UX/UI Design**. My focus is on **Product Management** and leading projects from conception to delivery.
+
+* 🗣️ **Languages:** Native Spanish, **Advanced English (C1)**.
+* ✍️ **Writing:** Editor & Writer at <a href="https://gazeta.gt/">Gazeta.gt</a>.
+* 🎯 **Interests:** Agile Methodologies, Technical Writing, System Design.
+
+### 🛠️ Tech & Tools stack
+<p align="left">
+  <img src="https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/UX%2FUI-Design-blue?style=flat" />
+  <img src="https://img.shields.io/badge/Technical_Writing-black?style=flat&logo=medium&logoColor=white" />
+</p>
+
+---
+<p align="center">
+  <a href="https://linkedin.com/in/tu-usuario">
+    <img src="https://img.shields.io/badge/Connect_on-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
