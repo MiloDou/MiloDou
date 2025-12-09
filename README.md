@@ -25,7 +25,7 @@ I combine technical knowledge in **Backend (C#)** and **Data (Python)** with a s
 
 ---
 <p align="center">
-  <a href="https://linkedin.com/in/tu-usuario">
+  <a href="[https://linkedin.com/in/tu-usuario](https://www.linkedin.com/in/ronaldo-méndez-mayorga-1aa9b5271)">
     <img src="https://img.shields.io/badge/Connect_on-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
